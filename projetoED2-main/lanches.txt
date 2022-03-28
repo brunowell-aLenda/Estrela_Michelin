@@ -1,0 +1,4 @@
+724	Croque monsieur	18.700001	Aurora
+41	Paes frescos recheados com queijo de bufala	24.900000	Prato Nobre
+169	Francesinha	22.500000	Noma
+478	Crepe frances com ovo presunto e queijo	10.000000	Arturito

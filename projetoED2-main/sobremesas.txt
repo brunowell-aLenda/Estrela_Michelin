@@ -1,0 +1,10 @@
+724	Creme brulee	26.400000	Alicia Restaurant
+334	Tarte Tatin	44.990002	Prato Nobre
+41	Panacota com frutas vermelhas	32.099998	Alicia Restaurant
+962	Bolo de chocolate com frutas vermelhas	35.799999	Aurora
+358	Espuma de chocolate	19.900000	Noma
+464	Tiramisu	36.299999	Arturito
+467	Petit Gateau	29.500000	Alicia Restaurant
+169	Tartalet	37.599998	Majestade
+478	Merengue pochet de laranja com raspas de chocolate	36.900002	Alicia Restaurant
+500	Crumble de doce de leite com banana da terra	36.400002	Restaurant President

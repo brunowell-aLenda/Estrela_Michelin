@@ -1,0 +1,29 @@
+41	Lasanha a bolonhesa	42.599998	Aurora	39364083008
+467	Crepe frances com ovo presunto e queijo	10.000000	Arturito	35670428072
+334	Nhoque de batata com ragu de cordeiro	52.200001	Majestade	88231479058
+500	Crumble de doce de leite com banana da terra	36.400002	Restaurant President	13204492044
+169	Sopa cremosa de lentilhas	42.250000	Aurora	88231479058
+724	Bolo de chocolate com frutas vermelhas	35.799999	Aurora	13204492044
+478	Peixe grelhado com arroz e castanhas	85.000000	Prato Nobre	88231479058
+358	Espuma de chocolate	19.900000	Noma	35670428072
+962	Tarte Tatin	44.990002	Prato Nobre	88231479058
+464	Crepe frances com ovo presunto e queijo	10.000000	Arturito	35670428072
+705	Crepe frances com ovo presunto e queijo	10.000000	Arturito	39364083008
+145	Frango a cordon bleu com legumes saltiados e arroz grego	47.990002	Arturito	13204492044
+281	Medalhao de file de carne de gado com pure de batata	69.699997	Majestade	88231479058
+827	Camarao com arroz a piamontese	60.000000	Noma	63359716078
+961	Tartalet	37.599998	Majestade	12475103019
+491	Paes frescos recheados com queijo de bufala	24.900000	Prato Nobre	35670428072
+995	Merengue pochet de laranja com raspas de chocolate	36.900002	Alicia Restaurant	88231479058
+942	Carne greilhada com legumes e chips de batatas	81.900002	Restaurant President	88231479058
+436	Curry de ervilhas com especiarias	54.900002	Restaurant President	39364083008
+391	Panacota com frutas vermelhas	32.099998	Alicia Restaurant	39364083008
+604	Creme brulee	26.400000	Alicia Restaurant	13204492044
+902	Merengue pochet de laranja com raspas de chocolate	36.900002	Alicia Restaurant	13204492044
+153	Curry de ervilhas com especiarias	54.900002	Restaurant President	7905927032
+292	Petit Gateau	29.500000	Alicia Restaurant	7905927032
+382	Paes frescos recheados com queijo de bufala	24.900000	Prato Nobre	40625892062
+421	Peixe grelhado com arroz e castanhas	85.000000	Prato Nobre	40625892062
+716	Espuma de chocolate	19.900000	Noma	40625892062
+718	Croque monsieur	18.700001	Aurora	44516935007
+895	Tarte Tatin	44.990002	Prato Nobre	44516935007

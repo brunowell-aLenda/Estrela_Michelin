@@ -1,0 +1,6 @@
+724	Sopa de cogumelos com alho poro	39.450001	Noma
+334	Curry de ervilhas com especiarias	54.900002	Restaurant President
+358	Magret recheado com pure de castanhas ao molho vinho 	60.250000	Arturito
+467	Raviole de espinafre e ricota	59.900002	Prato Nobre
+478	Sopa cremosa de lentilhas	42.250000	Aurora
+500	Nhoque de batata com ragu de cordeiro	52.200001	Majestade

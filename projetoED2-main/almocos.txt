@@ -1,0 +1,6 @@
+724	Frango a cordon bleu com legumes saltiados e arroz grego	47.990002	Arturito
+334	Medalhao de file de carne de gado com pure de batata	69.699997	Majestade
+41	Peixe grelhado com arroz e castanhas	85.000000	Prato Nobre
+467	Carne greilhada com legumes e chips de batatas	81.900002	Restaurant President
+169	Lasanha a bolonhesa	42.599998	Aurora
+500	Camarao com arroz a piamontese	60.000000	Noma
